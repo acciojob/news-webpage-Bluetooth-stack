@@ -17,17 +17,17 @@ body{
 	justify-content: center;
 	align-item: center;
 }
-.left{
+.latest-news-section{
 	height: 140px;
 	width: 180px;
 	background-color: white;
 	margin-right: 5px;
 	border-radius:15px;
 }
-.left h3{
+.latest-news-section h3{
 	text-align: center;
 }
-.left a{
+.latest-news-section a{
 	text-decoration: none;
 	color: black;
 }
@@ -43,7 +43,7 @@ body{
 	text-align: center;
 }
 
-.right{
+.pictorial-news-section{
 	height:290px;
 	width: 150px;
 	background-color: white;
@@ -51,7 +51,7 @@ body{
 	text-align: center;
 	padding-bottom: 10px;
 }
-.right img{
+.pictorial-news-section img{
 	height: 70px;
 	width: 120px;
 	padding-bottom: 5px;
